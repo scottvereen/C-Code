@@ -1,0 +1,9 @@
+K:\c#\Quest 4\Quest 4\Quest 4\bin\Debug\Quest 4.exe.config
+K:\c#\Quest 4\Quest 4\Quest 4\bin\Debug\Quest 4.exe
+K:\c#\Quest 4\Quest 4\Quest 4\bin\Debug\Quest 4.pdb
+K:\c#\Quest 4\Quest 4\Quest 4\obj\Debug\Quest 4.csprojResolveAssemblyReference.cache
+K:\c#\Quest 4\Quest 4\Quest 4\obj\Debug\Quest_4.Form1.resources
+K:\c#\Quest 4\Quest 4\Quest 4\obj\Debug\Quest_4.Properties.Resources.resources
+K:\c#\Quest 4\Quest 4\Quest 4\obj\Debug\Quest 4.csproj.GenerateResource.Cache
+K:\c#\Quest 4\Quest 4\Quest 4\obj\Debug\Quest 4.exe
+K:\c#\Quest 4\Quest 4\Quest 4\obj\Debug\Quest 4.pdb
