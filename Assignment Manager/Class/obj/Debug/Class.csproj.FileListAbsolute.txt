@@ -1,0 +1,166 @@
+K:\Advance c#\Week 1 homework\Class\Class\bin\Debug\Class.exe.config
+F:\Advance c#\Week 1 homework\Class\Class\bin\Debug\Class.exe.config
+E:\Advance c#\Week 1 homework\Class\Class\bin\Debug\Class.exe.config
+E:\Advance c#\Week 1 homework\Class\Class\obj\Debug\Class.Form1.resources
+E:\Advance c#\Week 1 homework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+E:\Advance c#\Week 1 homework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+E:\Advance c#\Week 1 homework\Class\Class\bin\Debug\Class.exe
+E:\Advance c#\Week 1 homework\Class\Class\bin\Debug\Class.pdb
+E:\Advance c#\Week 1 homework\Class\Class\obj\Debug\Class.exe
+E:\Advance c#\Week 1 homework\Class\Class\obj\Debug\Class.pdb
+E:\Advance c#\week3homework\Class\Class\bin\Debug\Class.exe.config
+E:\Advance c#\week3homework\Class\Class\obj\Debug\Class.exe
+E:\Advance c#\week3homework\Class\Class\obj\Debug\Class.pdb
+E:\Advance c#\week3homework\Class\Class\bin\Debug\Class.exe
+E:\Advance c#\week3homework\Class\Class\bin\Debug\Class.pdb
+E:\Advance c#\week3homework\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+E:\Advance c#\week3homework\Class\Class\obj\Debug\Class.Form1.resources
+E:\Advance c#\week3homework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+E:\Advance c#\week3homework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+F:\Advance c#\week3homework\Class\Class\bin\Debug\Class.exe.config
+F:\Advance c#\week3homework\Class\Class\obj\Debug\Class.exe
+F:\Advance c#\week3homework\Class\Class\obj\Debug\Class.pdb
+F:\Advance c#\week3homework\Class\Class\bin\Debug\Class.exe
+F:\Advance c#\week3homework\Class\Class\bin\Debug\Class.pdb
+F:\Advance c#\week3homework\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+F:\Advance c#\week3homework\Class\Class\obj\Debug\Class.Form1.resources
+F:\Advance c#\week3homework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+F:\Advance c#\week3homework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+F:\Advance c#\week4homework\Class\Class\bin\Debug\Class.exe.config
+F:\Advance c#\week4homework\Class\Class\obj\Debug\Class.exe
+F:\Advance c#\week4homework\Class\Class\obj\Debug\Class.pdb
+F:\Advance c#\week4homework\Class\Class\bin\Debug\Class.exe
+F:\Advance c#\week4homework\Class\Class\bin\Debug\Class.pdb
+F:\Advance c#\week4homework\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+F:\Advance c#\week4homework\Class\Class\obj\Debug\Class.Form1.resources
+F:\Advance c#\week4homework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+F:\Advance c#\week4homework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+C:\Users\stimm_000\Desktop\week4homework\Class\Class\bin\Debug\Class.exe.config
+C:\Users\stimm_000\Desktop\week4homework\Class\Class\obj\Debug\Class.exe
+C:\Users\stimm_000\Desktop\week4homework\Class\Class\obj\Debug\Class.pdb
+C:\Users\stimm_000\Desktop\week4homework\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+C:\Users\stimm_000\Desktop\week4homework\Class\Class\obj\Debug\Class.Form1.resources
+C:\Users\stimm_000\Desktop\week4homework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\stimm_000\Desktop\week4homework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+C:\Users\stimm_000\Desktop\week4homework\Class\Class\bin\Debug\Class.exe
+C:\Users\stimm_000\Desktop\week4homework\Class\Class\bin\Debug\Class.pdb
+E:\Advance c#\week4hw\week4homework\Class\Class\bin\Debug\Class.exe.config
+E:\Advance c#\week4hw\week4homework\Class\Class\obj\Debug\Class.exe
+E:\Advance c#\week4hw\week4homework\Class\Class\obj\Debug\Class.pdb
+F:\Advance c#\midterm\week4homework\Class\Class\bin\Debug\Class.exe.config
+F:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.exe
+F:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.pdb
+F:\Advance c#\midterm\week4homework\Class\Class\bin\Debug\Class.exe
+F:\Advance c#\midterm\week4homework\Class\Class\bin\Debug\Class.pdb
+F:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+F:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.Form1.resources
+F:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+F:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+E:\Advance c#\midterm\week4homework\Class\Class\bin\Debug\Class.exe.config
+E:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.exe
+E:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.pdb
+E:\Advance c#\midterm\week4homework\Class\Class\bin\Debug\Class.exe
+E:\Advance c#\midterm\week4homework\Class\Class\bin\Debug\Class.pdb
+E:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+E:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.Form1.resources
+E:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+E:\Advance c#\midterm\week4homework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+L:\Advance c#\midterm\midterm_sqlserver\Class\Class\bin\Debug\Class.exe.config
+L:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.exe
+L:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.pdb
+F:\Advance c#\midterm\midterm_sqlserver\Class\Class\bin\Debug\Class.exe.config
+F:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.exe
+F:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.pdb
+E:\Advance c#\midterm\midterm_sqlserver\Class\Class\bin\Debug\Class.exe.config
+E:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.exe
+E:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.pdb
+E:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+E:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.ControlPanel.resources
+E:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.Form1.resources
+E:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.Properties.Resources.resources
+E:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+E:\Advance c#\midterm\midterm_sqlserver\Class\Class\bin\Debug\Class.exe
+E:\Advance c#\midterm\midterm_sqlserver\Class\Class\bin\Debug\Class.pdb
+E:\Advance c#\midterm\midterm_sqlserver\Class\Class\obj\Debug\Class.PersonSearch.resources
+F:\Advance c#\week4homework\Class\Class\obj\Debug\Class.ControlPanel.resources
+F:\Advance c#\week4homework\Class\Class\obj\Debug\Class.PersonSearch.resources
+E:\Advance c#\week4homework\Class\Class\bin\Debug\Class.exe.config
+E:\Advance c#\week4homework\Class\Class\obj\Debug\Class.exe
+E:\Advance c#\week4homework\Class\Class\obj\Debug\Class.pdb
+E:\Advance c#\week4homework\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+E:\Advance c#\week4homework\Class\Class\obj\Debug\Class.ControlPanel.resources
+E:\Advance c#\week4homework\Class\Class\obj\Debug\Class.Form1.resources
+E:\Advance c#\week4homework\Class\Class\obj\Debug\Class.PersonSearch.resources
+E:\Advance c#\week4homework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+E:\Advance c#\week4homework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+E:\Advance c#\week4homework\Class\Class\bin\Debug\Class.exe
+E:\Advance c#\week4homework\Class\Class\bin\Debug\Class.pdb
+C:\Users\stimm_000\Desktop\tom\Class\Class\bin\Debug\Class.exe.config
+C:\Users\stimm_000\Desktop\tom\Class\Class\obj\Debug\Class.exe
+C:\Users\stimm_000\Desktop\tom\Class\Class\obj\Debug\Class.pdb
+C:\Users\stimm_000\Desktop\tom\Class\Class\bin\Debug\Class.exe
+C:\Users\stimm_000\Desktop\tom\Class\Class\bin\Debug\Class.pdb
+C:\Users\stimm_000\Desktop\tom\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+C:\Users\stimm_000\Desktop\tom\Class\Class\obj\Debug\Class.ControlPanel.resources
+C:\Users\stimm_000\Desktop\tom\Class\Class\obj\Debug\Class.Form1.resources
+C:\Users\stimm_000\Desktop\tom\Class\Class\obj\Debug\Class.PersonSearch.resources
+C:\Users\stimm_000\Desktop\tom\Class\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\stimm_000\Desktop\tom\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+F:\Advance c#\labhomework\Class\Class\bin\Debug\Class.exe.config
+F:\Advance c#\labhomework\Class\Class\obj\Debug\Class.exe
+F:\Advance c#\labhomework\Class\Class\obj\Debug\Class.pdb
+F:\Advance c#\week7homework\labhomework\Class\Class\bin\Debug\Class.exe.config
+F:\Advance c#\week7homework\labhomework\Class\Class\obj\Debug\Class.exe
+F:\Advance c#\week7homework\labhomework\Class\Class\obj\Debug\Class.pdb
+F:\Advance c#\week7homework\labhomework\Class\Class\bin\Debug\Class.exe
+F:\Advance c#\week7homework\labhomework\Class\Class\bin\Debug\Class.pdb
+F:\Advance c#\week7homework\labhomework\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+F:\Advance c#\week7homework\labhomework\Class\Class\obj\Debug\Class.ControlPanel.resources
+F:\Advance c#\week7homework\labhomework\Class\Class\obj\Debug\Class.Form1.resources
+F:\Advance c#\week7homework\labhomework\Class\Class\obj\Debug\Class.PersonSearch.resources
+F:\Advance c#\week7homework\labhomework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+F:\Advance c#\week7homework\labhomework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+F:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\bin\Debug\Class.exe.config
+F:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.exe
+F:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.pdb
+E:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\bin\Debug\Class.exe.config
+E:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.exe
+E:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.pdb
+E:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+E:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.ControlPanel.resources
+E:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.Form1.resources
+E:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.PersonSearch.resources
+E:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+E:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+E:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\bin\Debug\Class.exe
+E:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\bin\Debug\Class.pdb
+F:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\bin\Debug\Class.exe
+F:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\bin\Debug\Class.pdb
+F:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+F:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.ControlPanel.resources
+F:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.Form1.resources
+F:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.PersonSearch.resources
+F:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+F:\Advance c#\week8 homework\labhomework\labhomework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+C:\Users\stimm_000\Desktop\labhomework\labhomework\Class\Class\bin\Debug\Class.exe.config
+C:\Users\stimm_000\Desktop\labhomework\labhomework\Class\Class\bin\Debug\Class.exe
+C:\Users\stimm_000\Desktop\labhomework\labhomework\Class\Class\bin\Debug\Class.pdb
+C:\Users\stimm_000\Desktop\labhomework\labhomework\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+C:\Users\stimm_000\Desktop\labhomework\labhomework\Class\Class\obj\Debug\Class.ControlPanel.resources
+C:\Users\stimm_000\Desktop\labhomework\labhomework\Class\Class\obj\Debug\Class.Form1.resources
+C:\Users\stimm_000\Desktop\labhomework\labhomework\Class\Class\obj\Debug\Class.PersonSearch.resources
+C:\Users\stimm_000\Desktop\labhomework\labhomework\Class\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\stimm_000\Desktop\labhomework\labhomework\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+C:\Users\stimm_000\Desktop\labhomework\labhomework\Class\Class\obj\Debug\Class.exe
+C:\Users\stimm_000\Desktop\labhomework\labhomework\Class\Class\obj\Debug\Class.pdb
+F:\Advance c#\Assignment Manager\Class\bin\Debug\Class.exe.config
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.exe
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.pdb
+F:\Advance c#\Assignment Manager\Class\bin\Debug\Class.exe
+F:\Advance c#\Assignment Manager\Class\bin\Debug\Class.pdb
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.ControlPanel.resources
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.Form1.resources
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.PersonSearch.resources
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.Properties.Resources.resources
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.csproj.GenerateResource.Cache

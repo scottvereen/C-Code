@@ -1,0 +1,48 @@
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.ControlPanel.resources
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.Form1.resources
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.PersonSearch.resources
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.Properties.Resources.resources
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Appointments.csproj.GenerateResource.Cache
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.exe
+F:\Advance c#\Assignment Manager\Class\bin\Debug\Class.exe.config
+F:\Advance c#\Assignment Manager\Class\bin\Debug\Class.exe
+F:\Advance c#\Assignment Manager\Class\bin\Debug\Class.pdb
+F:\Advance c#\Assignment Manager\Class\obj\Debug\Class.pdb
+E:\old school\Advance c#\Assignment Manager\Class\bin\Debug\Class.exe.config
+E:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.exe
+E:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.pdb
+E:\old school\Advance c#\Assignment Manager\Class\bin\Debug\Class.exe
+E:\old school\Advance c#\Assignment Manager\Class\bin\Debug\Class.pdb
+E:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.ControlPanel.resources
+E:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.Form1.resources
+E:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.PersonSearch.resources
+E:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.Properties.Resources.resources
+E:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Appointments.csproj.GenerateResource.Cache
+H:\old school\Advance c#\Assignment Manager\Class\bin\Debug\Class.exe.config
+H:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.exe
+H:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.pdb
+F:\old school\Advance c#\Assignment Manager\Class\bin\Debug\Class.exe.config
+F:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.exe
+F:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.pdb
+F:\old school\Advance c#\Assignment Manager\Class\bin\Debug\Class.exe
+F:\old school\Advance c#\Assignment Manager\Class\bin\Debug\Class.pdb
+F:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Appointments.csprojResolveAssemblyReference.cache
+F:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.ControlPanel.resources
+F:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.Form1.resources
+F:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.PersonSearch.resources
+F:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Class.Properties.Resources.resources
+F:\old school\Advance c#\Assignment Manager\Class\obj\Debug\Appointments.csproj.GenerateResource.Cache
+E:\c# class\Assignment Manager\Class\bin\Debug\Class.exe.config
+E:\c# class\Assignment Manager\Class\obj\Debug\Class.exe
+E:\c# class\Assignment Manager\Class\obj\Debug\Class.pdb
+E:\c# class\Assignment Manager\Class\bin\Debug\Class.exe
+E:\c# class\Assignment Manager\Class\bin\Debug\Class.pdb
+E:\c# class\Assignment Manager\Class\obj\Debug\Appointments.csprojResolveAssemblyReference.cache
+E:\c# class\Assignment Manager\Class\obj\Debug\Class.ControlPanel.resources
+E:\c# class\Assignment Manager\Class\obj\Debug\Class.Form1.resources
+E:\c# class\Assignment Manager\Class\obj\Debug\Class.PersonSearch.resources
+E:\c# class\Assignment Manager\Class\obj\Debug\Class.Properties.Resources.resources
+E:\c# class\Assignment Manager\Class\obj\Debug\Appointments.csproj.GenerateResource.Cache
+H:\c# class\Assignment Manager\Class\bin\Debug\Class.exe.config
+H:\c# class\Assignment Manager\Class\obj\Debug\Class.exe
+H:\c# class\Assignment Manager\Class\obj\Debug\Class.pdb
