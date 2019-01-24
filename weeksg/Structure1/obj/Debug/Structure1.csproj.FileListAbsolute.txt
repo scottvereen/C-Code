@@ -1,0 +1,96 @@
+c:\users\001350936\documents\visual studio 2015\Projects\Structure1\Structure1\bin\Debug\Structure1.exe.config
+c:\users\001350936\documents\visual studio 2015\Projects\Structure1\Structure1\bin\Debug\Structure1.exe
+c:\users\001350936\documents\visual studio 2015\Projects\Structure1\Structure1\bin\Debug\Structure1.pdb
+c:\users\001350936\documents\visual studio 2015\Projects\Structure1\Structure1\obj\Debug\Structure1.csprojResolveAssemblyReference.cache
+c:\users\001350936\documents\visual studio 2015\Projects\Structure1\Structure1\obj\Debug\Structure1.Form1.resources
+c:\users\001350936\documents\visual studio 2015\Projects\Structure1\Structure1\obj\Debug\Structure1.Properties.Resources.resources
+c:\users\001350936\documents\visual studio 2015\Projects\Structure1\Structure1\obj\Debug\Structure1.csproj.GenerateResource.Cache
+c:\users\001350936\documents\visual studio 2015\Projects\Structure1\Structure1\obj\Debug\Structure1.exe
+c:\users\001350936\documents\visual studio 2015\Projects\Structure1\Structure1\obj\Debug\Structure1.pdb
+C:\Users\001350936\Desktop\Structure1\Structure1\bin\Debug\Structure1.exe.config
+C:\Users\001350936\Desktop\Structure1\Structure1\obj\Debug\Structure1.exe
+C:\Users\001350936\Desktop\Structure1\Structure1\obj\Debug\Structure1.pdb
+C:\Users\Wilfredo Jr\Desktop\Structure1\Structure1\Structure1\bin\Debug\Structure1.exe.config
+C:\Users\Wilfredo Jr\Desktop\Structure1\Structure1\Structure1\obj\Debug\Structure1.exe
+C:\Users\Wilfredo Jr\Desktop\Structure1\Structure1\Structure1\obj\Debug\Structure1.pdb
+C:\Users\Wilfredo Jr\Desktop\Structure1\Structure1\Structure1\bin\Debug\Structure1.exe
+C:\Users\Wilfredo Jr\Desktop\Structure1\Structure1\Structure1\bin\Debug\Structure1.pdb
+C:\Users\Wilfredo Jr\Desktop\Structure1\Structure1\Structure1\obj\Debug\Structure1.csprojResolveAssemblyReference.cache
+C:\Users\Wilfredo Jr\Desktop\Structure1\Structure1\Structure1\obj\Debug\Structure1.Form1.resources
+C:\Users\Wilfredo Jr\Desktop\Structure1\Structure1\Structure1\obj\Debug\Structure1.Properties.Resources.resources
+C:\Users\Wilfredo Jr\Desktop\Structure1\Structure1\Structure1\obj\Debug\Structure1.csproj.GenerateResource.Cache
+C:\Users\001350936\Desktop\Structure1 (2)\Structure1\Structure1\Structure1\bin\Debug\Structure1.exe.config
+C:\Users\001350936\Desktop\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.exe
+C:\Users\001350936\Desktop\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.pdb
+C:\Users\Wilfredo Jr\Desktop\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\bin\Debug\Structure1.exe.config
+C:\Users\Wilfredo Jr\Desktop\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.exe
+C:\Users\Wilfredo Jr\Desktop\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.pdb
+C:\Users\Wilfredo Jr\Desktop\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\bin\Debug\Structure1.exe
+C:\Users\Wilfredo Jr\Desktop\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\bin\Debug\Structure1.pdb
+C:\Users\Wilfredo Jr\Desktop\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.csprojResolveAssemblyReference.cache
+C:\Users\Wilfredo Jr\Desktop\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.Form1.resources
+C:\Users\Wilfredo Jr\Desktop\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.Properties.Resources.resources
+C:\Users\Wilfredo Jr\Desktop\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.csproj.GenerateResource.Cache
+C:\Users\001350936\Desktop\week2.zip\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\bin\Debug\Structure1.exe.config
+C:\Users\001350936\Desktop\week2.zip\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.exe
+C:\Users\001350936\Desktop\week2.zip\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\bin\Debug\Structure1.exe
+C:\Users\001350936\Desktop\week2.zip\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\bin\Debug\Structure1.pdb
+C:\Users\001350936\Desktop\week2.zip\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.csprojResolveAssemblyReference.cache
+C:\Users\001350936\Desktop\week2.zip\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.Form1.resources
+C:\Users\001350936\Desktop\week2.zip\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.Properties.Resources.resources
+C:\Users\001350936\Desktop\week2.zip\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.csproj.GenerateResource.Cache
+C:\Users\001350936\Desktop\week2.zip\Structure1 (3)\Structure1 (2)\Structure1\Structure1\Structure1\obj\Debug\Structure1.pdb
+C:\Users\001350936\Desktop\Structure1\Structure1\bin\Debug\Structure1.exe
+C:\Users\001350936\Desktop\Structure1\Structure1\bin\Debug\Structure1.pdb
+C:\Users\001350936\Desktop\Structure1\Structure1\obj\Debug\Structure1.csprojResolveAssemblyReference.cache
+C:\Users\001350936\Desktop\Structure1\Structure1\obj\Debug\Structure1.Form1.resources
+C:\Users\001350936\Desktop\Structure1\Structure1\obj\Debug\Structure1.Properties.Resources.resources
+C:\Users\001350936\Desktop\Structure1\Structure1\obj\Debug\Structure1.csproj.GenerateResource.Cache
+C:\Users\001350936\Desktop\week4\Structure1\bin\Debug\Structure1.exe.config
+C:\Users\001350936\Desktop\week4\Structure1\obj\Debug\Structure1.exe
+C:\Users\001350936\Desktop\week4\Structure1\obj\Debug\Structure1.pdb
+C:\Users\001350936\Desktop\week4\Structure1\bin\Debug\Structure1.exe
+C:\Users\001350936\Desktop\week4\Structure1\bin\Debug\Structure1.pdb
+C:\Users\001350936\Desktop\week4\Structure1\obj\Debug\Structure1.csprojResolveAssemblyReference.cache
+C:\Users\001350936\Desktop\week4\Structure1\obj\Debug\Structure1.Form1.resources
+C:\Users\001350936\Desktop\week4\Structure1\obj\Debug\Structure1.Properties.Resources.resources
+C:\Users\001350936\Desktop\week4\Structure1\obj\Debug\Structure1.csproj.GenerateResource.Cache
+C:\Users\Wilfredo Jr\Desktop\weeksg\weeksg\Structure1\bin\Debug\Structure1.exe.config
+C:\Users\Wilfredo Jr\Desktop\weeksg\weeksg\Structure1\obj\Debug\Structure1.exe
+C:\Users\Wilfredo Jr\Desktop\weeksg\weeksg\Structure1\obj\Debug\Structure1.pdb
+C:\Users\Wilfredo Jr\Desktop\weeksg\weeksg\Structure1\bin\Debug\Structure1.exe
+C:\Users\Wilfredo Jr\Desktop\weeksg\weeksg\Structure1\bin\Debug\Structure1.pdb
+C:\Users\Wilfredo Jr\Desktop\weeksg\weeksg\Structure1\obj\Debug\Structure1.csprojResolveAssemblyReference.cache
+C:\Users\Wilfredo Jr\Desktop\weeksg\weeksg\Structure1\obj\Debug\Structure1.Form1.resources
+C:\Users\Wilfredo Jr\Desktop\weeksg\weeksg\Structure1\obj\Debug\Structure1.Properties.Resources.resources
+C:\Users\Wilfredo Jr\Desktop\weeksg\weeksg\Structure1\obj\Debug\Structure1.csproj.GenerateResource.Cache
+C:\Users\001350936\Desktop\data3\data3\weeksg\Structure1\bin\Debug\Structure1.exe.config
+C:\Users\001350936\Desktop\data3\data3\weeksg\Structure1\obj\Debug\Structure1.exe
+C:\Users\001350936\Desktop\data3\data3\weeksg\Structure1\obj\Debug\Structure1.pdb
+C:\Users\001350936\Desktop\data3\data3\weeksg\Structure1\bin\Debug\Structure1.exe
+C:\Users\001350936\Desktop\data3\data3\weeksg\Structure1\bin\Debug\Structure1.pdb
+C:\Users\001350936\Desktop\data3\data3\weeksg\Structure1\obj\Debug\Structure1.csprojResolveAssemblyReference.cache
+C:\Users\001350936\Desktop\data3\data3\weeksg\Structure1\obj\Debug\Structure1.Form1.resources
+C:\Users\001350936\Desktop\data3\data3\weeksg\Structure1\obj\Debug\Structure1.Properties.Resources.resources
+C:\Users\001350936\Desktop\data3\data3\weeksg\Structure1\obj\Debug\Structure1.csproj.GenerateResource.Cache
+C:\Users\001350936\Desktop\data3 (2)\data3\data3\weeksg\Structure1\bin\Debug\Structure1.exe.config
+C:\Users\001350936\Desktop\data3 (2)\data3\data3\weeksg\Structure1\obj\Debug\Structure1.exe
+C:\Users\001350936\Desktop\data3 (2)\data3\data3\weeksg\Structure1\obj\Debug\Structure1.pdb
+C:\Users\001350936\Desktop\data3 (2)\data3\data3\weeksg\Structure1\obj\Debug\Structure1.csprojResolveAssemblyReference.cache
+C:\Users\001350936\Desktop\data3 (2)\data3\data3\weeksg\Structure1\obj\Debug\Structure1.ControlPanel.resources
+C:\Users\001350936\Desktop\data3 (2)\data3\data3\weeksg\Structure1\obj\Debug\Structure1.Form1.resources
+C:\Users\001350936\Desktop\data3 (2)\data3\data3\weeksg\Structure1\obj\Debug\Structure1.PersonSearch.resources
+C:\Users\001350936\Desktop\data3 (2)\data3\data3\weeksg\Structure1\obj\Debug\Structure1.Properties.Resources.resources
+C:\Users\001350936\Desktop\data3 (2)\data3\data3\weeksg\Structure1\obj\Debug\Structure1.csproj.GenerateResource.Cache
+C:\Users\Wilfredo Jr\Desktop\data3\data3 (2)\data3\data3\weeksg\Structure1\bin\Debug\Structure1.exe.config
+C:\Users\Wilfredo Jr\Desktop\data3\data3 (2)\data3\data3\weeksg\Structure1\obj\Debug\Structure1.exe
+C:\Users\Wilfredo Jr\Desktop\data3\data3 (2)\data3\data3\weeksg\Structure1\obj\Debug\Structure1.pdb
+C:\Users\Wilfredo Jr\Desktop\weeksg (2)\weeksg\Structure1\bin\Debug\Structure1.exe.config
+C:\Users\Wilfredo Jr\Desktop\weeksg (2)\weeksg\Structure1\obj\Debug\Structure1.exe
+C:\Users\Wilfredo Jr\Desktop\weeksg (2)\weeksg\Structure1\obj\Debug\Structure1.pdb
+C:\Users\Wilfredo Jr\Desktop\weeksg (2)\weeksg\Structure1\obj\Debug\Structure1.csprojResolveAssemblyReference.cache
+C:\Users\Wilfredo Jr\Desktop\weeksg (2)\weeksg\Structure1\obj\Debug\Structure1.ControlPanel.resources
+C:\Users\Wilfredo Jr\Desktop\weeksg (2)\weeksg\Structure1\obj\Debug\Structure1.Form1.resources
+C:\Users\Wilfredo Jr\Desktop\weeksg (2)\weeksg\Structure1\obj\Debug\Structure1.PersonSearch.resources
+C:\Users\Wilfredo Jr\Desktop\weeksg (2)\weeksg\Structure1\obj\Debug\Structure1.Properties.Resources.resources
+C:\Users\Wilfredo Jr\Desktop\weeksg (2)\weeksg\Structure1\obj\Debug\Structure1.csproj.GenerateResource.Cache
